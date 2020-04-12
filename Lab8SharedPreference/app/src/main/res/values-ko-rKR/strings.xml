@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab8 SharedPreference</string>
+    <string name="hello_user">좋은 하루 되세요.</string>
+    <string name="hello_First">만나서 반갑습니다.</string>
+</resources>
